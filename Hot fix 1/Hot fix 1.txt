@@ -1,2 +1,6 @@
 fix 1
+<<<<<<< .merge_file_a10876
 This is for hotfix 2 (2)
+=======
+this for feature 3
+>>>>>>> .merge_file_a10436
