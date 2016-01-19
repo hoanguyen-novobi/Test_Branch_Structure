@@ -1,1 +1,2 @@
 fix 1
+This is for hotfix 2
